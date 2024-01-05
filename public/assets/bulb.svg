@@ -1,0 +1,8 @@
+<svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bulb">
+<path id="Vector" d="M6.85713 18.7808C5.88978 17.1917 5.33331 15.3298 5.33331 13.3392C5.33331 7.50795 10.1089 2.78076 16 2.78076C21.891 2.78076 26.6666 7.50795 26.6666 13.3392C26.6666 15.3298 26.1102 17.1917 25.1428 18.7808" stroke="white" stroke-width="1.5"/>
+<path id="Vector_2" d="M22.6666 21.4478H9.33331L10.6666 25.4478H21.3333L22.6666 21.4478Z" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+<path id="Vector_3" d="M20 25.4478L18.6667 29.4478H13.3333L12 25.4478" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+<path id="Vector_4" d="M19.3334 13.4478C18.3126 14.3054 17.1852 14.7811 16 14.7811M16 14.7811C14.8148 14.7811 13.6875 14.3054 12.6667 13.4478M16 14.7811V20.7811" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+</g>
+</svg>
